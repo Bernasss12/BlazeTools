@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blazetools",
+  "name": "Blaze Tools Mod",
+  "description": "Getting blaze the love they need",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bernasss12"],
+  "credits": "The Forge and FML guys, for making this possible and me of course",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

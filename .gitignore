@@ -1,0 +1,16 @@
+
+run/
+
+build/
+
+\.idea/
+
+\.gradle/
+
+BlazeTools\.iml
+
+gradle\.properties
+
+gradlew
+
+gradlew\.bat
